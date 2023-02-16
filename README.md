@@ -350,6 +350,9 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 
 - Machine Learning Models Demonstrate that Clinicopathologic Variables are Comparable to Gene Expression Prognostic Signature（https://codeocean.com/capsule/9249586/tree/v1）
     - https://www.ejcancer.com/article/S0959-8049(22)00465-8/fulltext
+- Combined neoantigen burden and immune-related resistance mechanisms predict immunotherapy response
+	(https://codeocean.com/capsule/1428816/tree/v1)
+- Immunogenomic analysis of pediatric nervous system tumors(https://codeocean.com/capsule/9176641/tree/v1)
 
 - `DeepPATH` - Lung cancer image classification using deep convolutional neural network. Classification by tumor type, mutation type. Refs to other image classification studies that use deep learning. GoogleNet inception v3 architecture. Training, validation, testing cohorts (70%, 15%, 15%). Details on image processing. https://github.com/ncoudray/DeepPATH
     - Coudray, Nicolas, Paolo Santiago Ocampo, Theodore Sakellaropoulos, Navneet Narula, Matija Snuderl, David Fenyö, Andre L. Moreira, Narges Razavian, and Aristotelis Tsirigos. “Classification and Mutation Prediction from Non–Small Cell Lung Cancer Histopathology Images Using Deep Learning.” Nature Medicine 24, no. 10 (October 2018): 1559–67. https://doi.org/10.1038/s41591-018-0177-5.
