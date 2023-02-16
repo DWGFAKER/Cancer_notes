@@ -342,6 +342,9 @@ Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https
 - Three CNNs (34-layer ResNet, 16-layer VGG, and Inception v4) for identification of the structural patterns and spatial distribution of Tumor-Infiltrating Lymphocytes from IHC whole slide images of invasive breast cancer samples (SEER, TCGA). Methods, techical details. Outperform previous methods on several performance metrics. Built using PyTorch, with [QuIP](https://sbu-bmi.github.io/quip_distro/) (Quantitative Imaging in Pathology). [GitHub](https://github.com/SBU-BMI/quip_cancer_segmentation)
     - Le, Han, Rajarsi Gupta, Le Hou, Shahira Abousamra, Danielle Fassler, Luke Torre-Healy, Richard A. Moffitt, et al. “[Utilizing Automated Breast Cancer Detection to Identify Spatial Distributions of Tumor-Infiltrating Lymphocytes in Invasive Breast Cancer](https://doi.org/10.1016/j.ajpath.2020.03.012).” The American Journal of Pathology, July 2020
 
+- Machine Learning Models Demonstrate that Clinicopathologic Variables are Comparable to Gene Expression Prognostic Signature（https://codeocean.com/capsule/9249586/tree/v1）
+    - https://www.ejcancer.com/article/S0959-8049(22)00465-8/fulltext
+
 - `DeepPATH` - Lung cancer image classification using deep convolutional neural network. Classification by tumor type, mutation type. Refs to other image classification studies that use deep learning. GoogleNet inception v3 architecture. Training, validation, testing cohorts (70%, 15%, 15%). Details on image processing. https://github.com/ncoudray/DeepPATH
     - Coudray, Nicolas, Paolo Santiago Ocampo, Theodore Sakellaropoulos, Navneet Narula, Matija Snuderl, David Fenyö, Andre L. Moreira, Narges Razavian, and Aristotelis Tsirigos. “Classification and Mutation Prediction from Non–Small Cell Lung Cancer Histopathology Images Using Deep Learning.” Nature Medicine 24, no. 10 (October 2018): 1559–67. https://doi.org/10.1038/s41591-018-0177-5.
 
